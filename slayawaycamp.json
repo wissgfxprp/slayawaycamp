@@ -383,14 +383,20 @@
 
 	],
 
-	"games": [{
+	"games": [
+		{
 			"name": "slither.io",
-			"ico": "https://i.postimg.cc/GmTVJkGn/rsz-icon-1-1.png",
+			"ico": "https://i.postimg.cc/nz4wLf6z/logo.png",
 			"link": "https://wormroyale.io/",
 			"cat": "Overall",
 			"orientation": "0"
 
-
+ },{
+            "name" : "zapper.io",
+            "ico" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/garten-of-banban-3-chapter-2-3-4/main/game/2.jpg",
+            "link" : "https://zapper.io/",
+            "cat" : "Overall",
+            "orientation" : "0"
 		}
 
 	],
