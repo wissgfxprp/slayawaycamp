@@ -315,12 +315,12 @@
 		"ico": "https://i.ibb.co/4gz3b0r/image-removebg-preview-1.png",
 		"bg": "#ffffff"
 	}, {
-		"active": "false",
+		"active": "true",
 		"name": "spinner",
 		"ico": "https://i.postimg.cc/XvZTcfGS/image-removebg-preview-1.png",
 		"bg": "#ffffff"
 	}, {
-		"active": "false",
+		"active": "true",
 		"name": "scratch",
 		"ico": "https://i.ibb.co/WDqhxS4/image-removebg-preview-3-1.png",
 		"bg": "#ffffff"
@@ -330,7 +330,7 @@
 		"ico": "https://i.postimg.cc/bNmymRJs/image-removebg-preview-1-1.png",
 		"bg": "#ffffff"
 	}, {
-		"active": "false",
+		"active": "true",
 		"name": "quiz",
 		"ico": "https://i.ibb.co/s3T9dG6/quiz-logo-with-speech-bubble-icon-149152-813-1.jpg",
 		"bg": "#ffffff"
